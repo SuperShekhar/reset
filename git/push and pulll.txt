@@ -1,0 +1,9 @@
+to create a pull request 
+go to that repository and fork it and clone it and make some edit (either in main or branch)
+and check its remote version
+and push it 
+and go to git hub it is saved in your repository and compare and pull request .
+Now the owner has to accept the request
+
+
+but the collaborator can directly push it 
